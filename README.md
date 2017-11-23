@@ -1,2 +1,5 @@
 # Animal-Myself
-Vegan platform creation
+Vegan platform building
+
+Content is missing
+Images are missing
